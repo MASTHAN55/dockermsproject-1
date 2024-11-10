@@ -2,7 +2,7 @@
 version: "3.8"
 services:
   movies:
-    image: masthan733/movies:latest
+    image: masthan733/moviesrepo:latest
     ports:
       - 91:80
     deploy:
